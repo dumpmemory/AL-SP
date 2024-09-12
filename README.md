@@ -1,10 +1,11 @@
 ## Active learning selection methods used in "On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex" in EACL 2023
 
 ```angular2html
-@article{zhuo2023robustness,
+@inproceedings{zhuo2023robustness,
   title={On Robustness of Prompt-based Semantic Parsing with Large Pre-trained Language Model: An Empirical Study on Codex},
-  author={Zhuo, Terry Yue and Li, Zhuang and Huang, Yujin and Li, Yuan-Fang and Wang, Weiqing and Haffari, Gholamreza and Shiri, Fatemeh},
-  journal={arXiv preprint arXiv:2301.12868},
+  author={Zhuo, Terry Yue and Li, Zhuang and Huang, Yujin and Shiri, Fatemeh and Wang, Weiqing and Haffari, Gholamreza and Li, Yuan-Fang},
+  booktitle={Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics},
+  pages={1090--1102},
   year={2023}
 }
 ```
